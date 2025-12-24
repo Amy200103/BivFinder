@@ -1,7 +1,7 @@
 # BivFinder
 A sequence-based predictive framework for bivalent histone modifications
 
-#Dependencies
+## Dependencies
 - Python 3.10.14
 - PyTorch 2.6.0
 - NumPy 1.26.4
