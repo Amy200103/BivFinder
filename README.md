@@ -40,3 +40,18 @@ optimized using the Adam optimizer. Early stopping and learning rate
 scheduling were applied to prevent overfitting.
 
 Model training scripts are provided in `train.py`.
+
+## Evaluation
+
+Model performance was evaluated on an independent test set using the
+following metrics:
+
+- Accuracy
+- ROC-AUC
+
+All evaluations were performed consistently across models to ensure
+fair comparison.
+
+
+
+
